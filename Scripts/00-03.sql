@@ -1,3 +1,5 @@
+/* my comments */
+-- comment 2
 SELECT firstName, lastName, title
 FROM employee
 LIMIT 5;
